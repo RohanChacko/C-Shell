@@ -67,5 +67,5 @@ For autocomplete and command history:
   * Run make clean once done with the program
   
 ## License
-The MIT License https://rohanc.mit-license.org/
+The MIT License https://rohanc.mit-license.org/  
 Copyright &copy; 2019 Rohan Chacko <rohanchacko007@gmail.com>
