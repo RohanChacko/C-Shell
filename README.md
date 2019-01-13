@@ -65,3 +65,7 @@ For autocomplete and command history:
   * Autocomplete & command history can be implemented if readline library is installed. (sudo apt install libreadline-dev)
   * Type 'exit' to exit the shell
   * Run make clean once done with the program
+  
+## License
+The MIT License https://rohanc.mit-license.org/
+Copyright &copy; 2019 Rohan Chacko <rohanchacko007@gmail.com>
